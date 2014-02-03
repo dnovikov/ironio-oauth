@@ -17,8 +17,8 @@
     },
     "autoload": {
         "psr-0": {
-            "IronIoOAuth": "",
-            "IronIoOAuthService": ""
+            "IronIoOAuth\\IronIoOAuth": "",
+            "OAuth\\IronIoOAuthService": ""
         }
     }
 }
