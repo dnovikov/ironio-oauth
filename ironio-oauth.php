@@ -1,5 +1,7 @@
 <?php
 
+namespace IronIoOAuth;
+
 use OAuth\ServiceFactory;
 use OAuth\Common\Http\Uri;
 use OAuth\Common\Storage\Session;

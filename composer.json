@@ -16,8 +16,8 @@
         "lusitanian/oauth": "~0.2"
     },
     "autoload": {
-        "psr-0": {
-            "\\IronIoOAuth": "",
+        "psr-4": {
+            "IronIoOAuth\\IronIoOAuth": "",
             "OAuth\\IronIoOAuthService": ""
         }
     }
