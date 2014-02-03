@@ -18,7 +18,7 @@
     "autoload": {
         "psr-4": {
             "IronIoOAuth\\": "",
-            "OAuth\\": ""
+            "OAuth\\OAuth2\\Service\\": ""
         }
     }
 }

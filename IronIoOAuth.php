@@ -69,7 +69,7 @@ class IronIoOAuth {
         $api_uri = new Uri\Uri($this->getIniData('api_uri'));
 
         $this->service = $service_factory->createService(
-            'ironiooauthservice',
+            'IronIoOAuthService',
             $credentials,
             $session_storage,
             array(),
