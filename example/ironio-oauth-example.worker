@@ -1,0 +1,5 @@
+runtime "php"
+exec "worker-example.php"
+name "IronIoOauth"
+dir "./vendor"
+file "config-example.ini"

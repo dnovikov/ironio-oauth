@@ -1,0 +1,14 @@
+{
+  "production": {
+    "project_id": "PROJECT_ID",
+    "token": "TOKEN"
+  },
+  "test": {
+    "project_id": "PROJECT_ID",
+    "token": "TOKEN"
+  },
+  "development": {
+    "project_id": "PROJECT_ID",
+    "token": "TOKEN"
+  }
+}
